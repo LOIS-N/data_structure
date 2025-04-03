@@ -1,0 +1,2 @@
+
+        printf("%d ", DataSet[i]); 
